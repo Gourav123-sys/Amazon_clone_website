@@ -5,7 +5,7 @@
 }
 
 .navbar {
-    height: 7vw;
+    height: 7vh;
     width: 100%; 
     background-color: #0f1111;
     color: white;
@@ -15,16 +15,16 @@
 }
 
 .nav-logo {
-    height: 5vw;
+    height: 5vh;
     width: 10vw;
     
 }
 
 .logo { 
-    background-image: url("Amazon_icon.png");
+    background-image: url("amazon_logo.png");
     background-size: cover;
-    height: 3vw;
-    width: 8vw;
+    height: 2.2rem;
+    width: 4.5rem;
 }
 
 .border {
@@ -139,7 +139,7 @@ span {
 /* panel */
 
 .panel {
-    height: 5vw;
+    height: 5vh;
     background-color: #222f3d;
     display: flex;
     color: white;
@@ -178,7 +178,7 @@ span {
 .hero-section {
     background-image: url("hero_image.jpg");
     background-size:cover;
-    height: 35vw;
+    height: 35vh;
     display: flex;
     justify-content: center;
     align-items: flex-end;
@@ -187,7 +187,7 @@ span {
 .hero-message {
     background-color: white;
     color: black;
-    height: 5vw;
+    height: 5vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -306,13 +306,6 @@ ul a {
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-.logo {
-    background-image: url("amazon_logo.png");
-    background-size: cover;
-    height: 6vw;
-    width: 10%;
 }
 
 .foot-panel4 {
